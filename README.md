@@ -1,0 +1,2 @@
+# SQA
+Manual testing
